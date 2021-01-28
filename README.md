@@ -13,3 +13,7 @@ Project : [Classification Covid twits](https://github.com/tural327/NLP-projects/
 *I used LSTM with 64 unites for my model 
 
 *![](https://github.com/tural327/NLP-projects/blob/main/Classification%20Covid%20twits/Model%20Sequential.png)
+
+*After training I made classification report for my model
+
+![](https://github.com/tural327/NLP-projects/blob/main/Classification%20Covid%20twits/Cassification%20report.png)
