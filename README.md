@@ -1,8 +1,8 @@
 # NLP-projects
 Tensorflow -RNN ,class.reports etc.
-Project : Classification Covid twits (Data loaded from kaggle.com)
+Project : [Classification Covid twits](https://github.com/tural327/NLP-projects/tree/main/Classification%20Covid%20twits) (Data loaded from kaggle.com)
 
-*[First twits cleanin by making def clean_data() Function](https://github.com/tural327/NLP-projects/tree/main/Classification%20Covid%20twits)
+*First twits cleanin by making def clean_data() Function(https://github.com/tural327/NLP-projects/tree/main/Classification%20Covid%20twits)
 
 *Most used worlds visualized by WordCloud
 
